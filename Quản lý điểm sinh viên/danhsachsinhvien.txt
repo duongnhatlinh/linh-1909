@@ -1,0 +1,91 @@
+10023,Doan Manh Tan,Nu,21/1/2002,Ha Tinh,ANHTTT,9,9,8
+10024,Ha Duc Ngoc,Nam,15/1/2002,Yen Bai,ANHTTT,9,7,5
+10025,Dao Thi Kim Yen,Nam,25/1/2002,Dak Lak,ANHTTT,9,4,5
+10026,Nguyen Thien Nhan,Nam,29/12/2002,Hue,ANHTTT,9,9,4
+10027,Nguyen Duc Minh,Nam,13/1/2002,Da Nang,ANHTTT,9,5,6
+10028,Nguyen Minh Duc,Nam,3/1/2002,Nam Dinh,ANHTTT,8,5,8
+10029,Pham Cong Nguyen,Nam,23/1/2002,Hai Phong,ANHTTT,6,6,6
+10030,Pham Nguyen Tat Thang,Nu,18/3/2002,Thai Binh,ANHTTT,9,7,9
+10031,Ly Bich Ngoc,Nam,16/1/2002,Cao Bang,ANHTTT,8,9,8
+10032,Nguyen Sy Huy Hoang,Nam,24/1/2002,Thanh Hoa,ANHTTT,5,9,9
+10033,Nguyen Phuc Dang,Nam,15/3/2002,Ha Nam,ANHTTT,8,6,7
+10034,Nguyen Minh Hieu,Nam,5/1/2002,Nam Dinh,ANHTTT,9,9,6
+10035,Dinh Doan Xuan Phuong,Nam,1/11/2002,Quang Binh,ANHTTT,9,7,9
+10036,Duong Dinh Nhat Linh,Nam,9/1/2002,Ha Tinh,ANHTTT,9,6,9
+10037,Hoang My Linh,Nam,10/1/2002,Gia Lai,ANHTTT,9,9,10
+10038,Le Duc Manh,Nam,12/1/2002,Hung Yen,ANHTTT,10,10,10
+10039,Nguyen Minh Duong,Nu,4/3/2002,Yen Bai,ANHTTT,9,6,7
+10040,Tran Quoc Bao,Nam,5/9/2001,Thanh Hoa,ANHTTT,8,8,8
+10041,Trang Dang Khoa,Nam,3/19/2002,Kien Giang,ANHTTT,6,9,4
+10042,Vuong Anh Long,Nam,15/12/2002,Ha Noi,ANHTTT,7,6,7
+10043,Nguyen Van Hung,Nam,23/8/2002,Ha Tinh,ANHTTT,6,6,7
+10044,Nguyen Thi Thu Huyen,Nu,10/10/2002,Ha Tinh,ANHTTT,8,9,8
+10045,Nguyen Thu Phuong,Nu,5/8/2002,Gia Lai,ANHTTT,7,8,8
+10046,Vu Le Huyen,Nu,16/11/2002,Thanh Hoa,ANHTTT,9,9,10
+10047,Tran Quoc Huy,Nam,8/2/2001,Gia Lai,ANHTTT,5,4,5
+10001,Ha Thuy Linh,Nam,15/2/2002,Thanh Hoa,BDATTT,8,8,8
+10002,Do Nguyen Phuong,Nam,22/2/2001,Vinh Phuc,BDATTT,9,9,9
+10003,Le Huu Hien,Nam,22/2/2002,Nghe An,BDATTT,9,6,6
+10004,Bui Bich Phuong,Nam,20/2/2002,Thanh Hoa,BDATTT,8,7,7
+10005,Nguyen Quang Phong,Nam,21/2/2002,Quang Tri,BDATTT,8,9,8
+10006,Pham Duc Minh,Nu,9/2/2002,Nam Dinh,BDATTT,10,8,7
+10007,Duong Thanh Nam,Nu,28/1/2002,Nghe An,BDATTT,9,9,7
+10008,Quach Viet Tung,Nam,8/2/2002,Thai Binh,BDATTT,8,9,5
+10009,Nguyen Duy Phuong,Nam,4/2/2002,Thai Binh,BDATTT,9,9,9
+10010,Nguyen Anh Nam,Nu,3/2/2002,Ha Noi,BDATTT,9,9,9
+10011,Nguyen Duc Hieu,Nu,23/2/2002,Hai Duong,BDATTT,8.1,8.1,8.1
+10012,Ha Huy Hoang,Nam,6/2/2002,Cao Bang,BDATTT,9.1,9.1,9.1
+10013,Nguyen Quang Tung,Nam,7/2/2002,Hoa Binh,BDATTT,8,9,7
+10014,Sung Thi Ut,Nam,14/2/2002,Hoa Binh,BDATTT,10,8,9
+10015,Nguyen Gia Hieu,Nam,11/2/2002,Nghe An,BDATTT,9,7,7
+10016,Le Thi My Duyen,Nam,17/2/2002,Quang Ngai,BDATTT,4,4,4
+10017,Nguyen Van Nghia,Nam,13/2/2002,Nghe An,BDATTT,8,9,4
+10018,Le Thi Nhi,Nam,16/2/2002,Gia Lai,BDATTT,8,8,8
+10019,Duong Quang Minh,Nam,10/9/2002,Ho Chi Minh,BDATTT,9,4,4
+10020,Nguyen Ngoc Hieu,Nam,18/2/2002,Hoa Binh,BDATTT,8,8,8
+10021,Tran Minh Duc,Nam,10/10/2002,Thai Binh,BDATTT,8,5,7
+10022,Nguyen Thi Phuong Hang,Nam,19/2/2002,Ca Mau,BDATTT,8,7,7
+10048,Bui Minh Duc,Nam,27/3/2002,Yen Bai,CNTT,6,9,7
+10049,Nguyen Duc Cuong,Nu,28/3/2002,Ha Noi,CNTT,7,9,7
+10050,Pham Ngoc Anh Dung,Nu,29/3/2002,Gia Lai,CNTT,8,6,7
+10051,Nguyen Huu Duc An,Nam,1/4/2002,Nghe An,CNTT,8,8,8
+10052,Trinh Viet Tai,Nam,4/4/2002,Viet Nam,CNTT,9,7,6
+10053,Bui Quoc Khanh,Nam,5/4/2002,Thai Binh,CNTT,9,9,9
+10054,Pham Thanh Tung,Nu,3/4/2002,Russia,CNTT,9,9,9
+10055,Nguyen Tan Quy,Nu,30/3/2002,Lam Dong,CNTT,8,8,8
+10056,Nguyen Thi Hai Van,Nam,26/3/2002,Gia Lai,CNTT,7,6,6
+10057,Mai Thi Hanh Trang,Nam,25/3/2002,Binh Dinh,CNTT,5,5,4
+10058,Nguyen Le Trung Hieu,Nam,21/3/2002,Lang Son,CNTT,9,7,7
+10059,Tran Thi Ngoc Khanh,Nam,24/3/2002,Bac Giang,CNTT,9,9,7
+10060,Nghiem Van Tien,Nam,22/3/2002,Hoa Binh,CNTT,9,9,9
+10061,Nguyen Hoang Nam,Nu,23/1/2002,Thai Binh,CNTT,6,4,4
+10062,Nguyen Thi Ha Phuong,Nam,23/3/2002,Thanh Hoa,CNTT,4,4,4
+10063,Nguyen Khoi Nguyen,Nam,2/4/2002,Thai Binh,CNTT,5,9,4
+10064,Nguyen The Anh,Nu,3/3/2002,Bac Ninh,HTTT,8,5,6
+10065,Phan Dinh Minh Ngoc,Nam,6/3/2002,Soc Trang,HTTT,9,7,5
+10066,Ta Van Nhat,Nu,4/3/2002,Hai Phong,HTTT,9,7,6
+10067,Nguyen Hong Quan,Nam,9/3/2002,Phu Tho,HTTT,8,9,7
+10068,Nguyen Nhu Quynh,Nam,7/3/2002,Ha Noi,HTTT,9,8,9
+10069,Vo Quoc Huy,Nu,8/3/2002,Quang Ngai,HTTT,8,8,8
+10070,Nguyen Thanh Hieu,Nam,5/3/2002,Nghe An,HTTT,4,4,5
+10085,Tran Thi Thanh Thoai,Nam,22/5/2002,Long An,KTPM,6,9,8
+10086,Vu Van Bien,Nu,1/2/2002,Phu Tho,KTPM,8,8,8
+10087,Nguyen Quang Cuong,Nam,27/1/2002,Ha Noi,KTPM,5,4,5
+10088,Nguyen Thao Anh,Nu,31/1/2002,Hoa Binh,KTPM,8,6,8
+10089,Ngo Anh Vu,Nu,28/1/2002,Bac Giang,KTPM,6,7,5
+10090,Vu Duy Anh,Nam,30/1/2002,Nghe An,KTPM,8,8,9
+10091,Tran Nhat Hieu,Nam,20/5/2001,Gia Lai,KTPM,7,7,8
+10078,Nguyen Bao Ngoc,Nam,13/3/2002,Phu Tho,MMT&TTDL,8,8,10
+10079,Nguyen Manh Dung,Nu,14/3/2002,Gia Lai,MMT&TTDL,5,5,6
+10080,Do Duc Phuc,Nam,12/3/2002,Gia Lai,MMT&TTDL,8,9,7
+10081,Nguyen Dang Diep Anh,Nu,15/3/2002,Nam Dinh,MMT&TTDL,9,7,7
+10082,Tran Quoc Dung,Nu,11/2/2002,Ha Tinh,MMT&TTDL,8,7,8
+10083,Dam Thi Thu Mai,Nam,17/3/2002,Cao Bang,MMT&TTDL,4,4,5
+10084,Dang Hoang Viet,Nam,2/3/2002,Ha Noi,MMT&TTDL,7,8,8
+10071,Ha Thi Ngoc Phuong,Nam,26/2/2002,Thanh Hoa,PTDL,6,9,7
+10072,Phan Thi Hong Tham,Nam,27/2/2002,Dak Lak,PTDL,9,8,8
+10073,Nguyen Ba Nam,Nam,1/3/2002,Binh Phuoc,PTDL,8,8,8
+10074,Chu Manh Hung,Nam,19/3/2002,Lang Son,PTDL,8,8,8
+10075,Hoang Trung Nguyen,Nam,24/2/2002,Nam Dinh,PTDL,5,5,5
+10076,Do Phan Nhat Anh,Nam,2/3/2002,Gia Lai,PTDL,5,4,4
+10077,Bui Ngoc An,Nam,28/2/2002,Lang Son,PTDL,8,8,8
